@@ -106,12 +106,12 @@ MIT License — bebas digunakan untuk kebutuhan pribadi maupun komersial.
 ```
 name=AESUtils
 version=1.0.0
-author=YourName
-maintainer=YourEmail@example.com
+author=MisredIoT
+maintainer=**
 sentence=AES-128-CBC Encryption Library
 paragraph=Provides simple interface for AES encryption with CBC mode
 category=Data Processing
-url=https://github.com/yourusername/AESUtils
+url=https://github.com/ArthZ01/AES-Lib
 architectures=esp32,esp8266
 ```
 
@@ -119,8 +119,8 @@ architectures=esp32,esp8266
 
 ## ✍️ Penulis
 
-- **Author:** YourName  
-- **Maintainer:** [YourEmail@example.com](mailto:YourEmail@example.com)
+- **Author:** MisredIoT  
+- **Maintainer:** 
 
 ---
 
